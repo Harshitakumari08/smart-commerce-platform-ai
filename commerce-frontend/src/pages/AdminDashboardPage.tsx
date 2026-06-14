@@ -1,0 +1,3 @@
+export default function AdminDashboardPage() {
+  return <main className="p-8 text-white"><h1 className="text-3xl font-semibold">Admin Dashboard</h1><p className="mt-2 text-slate-300">Revenue, orders, users, products, inventory cards and charts.</p></main>;
+}
